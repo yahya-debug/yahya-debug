@@ -82,4 +82,104 @@ const yahya = {
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+## What I Do Best
+
+<table>
+<tr>
+<td width="50%">
+
+###  Backend Development
+- Scalable microservices & custom API architectures
+- REST API design and request pipelines
+- In-memory key-value stores & systems logic
+- High-performance execution layers
+
+</td>
+<td width="50%">
+
+###  Security & Best Practices
+- Authentication & Authorization flows
+- Secure protocol parsing (RESP)
+- Web security vulnerability prevention
+- Clean, robust code structure and version control
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+###  Algorithmic Problem Solving
+- Advanced data structures & data parsing
+- Speed-accuracy optimization in competitive tracks
+- Codeforces Specialist tier problem solving
+- Modularity and query optimization
+
+</td>
+<td width="50%">
+
+###  Mentoring & Community
+- Delivering foundational security tracks
+- Leading university programming communities
+- Practical, hands-on workshop training
+- Technical guide and code reviews
+
+</td>
+</tr>
+</table>
+
+---
+
+##  GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+
+</div>
+
+---
+
+##  Certifications & Achievements
+
+<div align="center">
+
+![Meta Version Control](https://img.shields.io/badge/Meta_Version_Control-Coursera-blue?style=for-the-badge&logo=coursera)
+![Web Security](https://img.shields.io/badge/Web_Security-Udemy-green?style=for-the-badge&logo=udemy)
+![MongoDB for SQL Experts](https://img.shields.io/badge/MongoDB_for_SQL_Experts-Certified-darkgreen?style=for-the-badge&logo=mongodb)
+![IEEEXtreme](https://img.shields.io/badge/IEEEXtreme_Quals-1st_Place-gold?style=for-the-badge)
+![Codeforces](https://img.shields.io/badge/Codeforces-Max_Specialist-red?style=for-the-badge)
+
+</div>
+
+---
+
+##  Random Dev Quote
+
+<div align="center">
+
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight))
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect & Build Something Amazing Together!
+
+<img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)" width="900">
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+<img src="[https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00D9FF&style=for-the-badge](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00D9FF&style=for-the-badge)" alt="Profile views" />
+
+ 
+</div>
