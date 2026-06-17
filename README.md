@@ -138,10 +138,10 @@ const yahya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yahya-debug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-debug&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-debug&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -179,7 +179,7 @@ const yahya = {
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-<img src="[https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00D9FF&style=for-the-badge](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00D9FF&style=for-the-badge)" alt="Profile views" />
+<img src="[https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00D9FF&style=for-the-badge](https://komarev.com/ghpvc/?username=yahya-debug&label=Profile%20Views&color=00D9FF&style=for-the-badge)" alt="Profile views" />
 
  
 </div>
