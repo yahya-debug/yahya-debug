@@ -161,16 +161,6 @@ const yahya = {
 
 ---
 
-##  Random Dev Quote
-
-<div align="center">
-
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight))
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's Connect & Build Something Amazing Together!
