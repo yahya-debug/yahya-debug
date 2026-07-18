@@ -14,41 +14,6 @@
 
 </div>
 
-##  About Me
-
-```javascript
-const yahya = {
-    location: "Ramallah, Palestine 🇵🇸",
-    education: "Bachelor of Cyber Security @ Birzeit University",
-    rank: "1st in Cyber Security Program",
-    gpa: "84.7",
-    
-    expertise: {
-        languages: ["C++", "Go", "JavaScript", "Python", "SQL"],
-        backend: ["Node.js", "Express.js", "GO (GIN)", "REST APIs"],
-        security: ["Web Security", "Authentication", "Authorization"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB"]
-    },
-    
-    competitive_programming: {
-        codeforces: "Max Specialist",
-        achievements: [
-            "1st place - IEEEXtreme qualifications contest",
-            "1st place - IEEE Head-to-Head contest",
-            "3rd place - PCPC BZU qualifications 2025"
-        ]
-    },
-    
-    currently_working_on: [
-        "Designing highly secure and performant backend architectures",
-        "Solving complex algorithmic and data structure problems",
-        "Leading training sessions at Birzeit University Cyber Security Community"
-    ],
-    
-    fun_fact: "I turn complex algorithmic challenges into secure, optimized backend logic"
-};
-```
-
 ---
 
 ## 💻 Languages
