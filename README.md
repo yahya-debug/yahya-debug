@@ -56,10 +56,13 @@ I build backend systems and APIs with a focus on performance and clean, maintain
 
 ## GitHub Analytics
 
-<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=yahya-debug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-debug&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" /> -->
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-debug&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+---
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamadMilhem&theme=default" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamadMilhem&theme=default" alt="Top Languages" height="170" />
 
 </div>
 
